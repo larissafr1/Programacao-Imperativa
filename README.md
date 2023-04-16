@@ -12,12 +12,11 @@ Its useful for simple calculations.
 * Multiply
 * Subtract
 * Divide
-* Sum
 
 ## Built With
 
 * HTML
-* css
+* CSS
 * JS
 
 
